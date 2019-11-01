@@ -1,6 +1,6 @@
-package Aoc.days;
+package aoc.days;
 
-import Aoc.FileUtilities;
+import aoc.FileUtilities;
 
 import java.io.File;
 import java.net.URL;

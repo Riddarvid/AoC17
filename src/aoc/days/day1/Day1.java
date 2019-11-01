@@ -1,6 +1,6 @@
-package Aoc.days.day1;
+package aoc.days.day1;
 
-import Aoc.days.Day;
+import aoc.days.Day;
 
 public class Day1 extends Day {
     public static void main(String[] args) {
